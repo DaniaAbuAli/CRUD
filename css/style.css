@@ -1,0 +1,22 @@
+.input-group button:hover {
+    color: white;
+  }
+  @media(min-width:992px){
+      .input-group{
+          width: 50%;
+      }
+  }
+.icons svg {
+ cursor: pointer;
+}
+button.delete,
+button.edit{
+    border: none;
+    background:none;
+    padding: 0;
+}
+.hide {
+    display: none;
+}
+
+ 
